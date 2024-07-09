@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/deepanshu_6002" target="blank"><img src="https://img.shields.io/twitter/follow/deepanshu_6002?logo=twitter&style=for-the-badge" alt="deepanshu_6002" /></a> </p>
 
-- 📫 How to reach me **deepanshubahti2121@gmail.com**
+- 📫 How to reach me **deepanshubhati2121@gmail.com**
 
 - ⚡ Fun fact **I am a funny**
 
